@@ -1,2 +1,6 @@
 <h1>Timetable X</h1>
-<div class="wrapper"><app-teacher-card [teacher]="teacher"></app-teacher-card></div>
+<div class="wrapper">
+  @for (teacher of teachers; track teacher) {
+  <app-teacher-card [teacher]="teacher"></app-teacher-card>
+  }
+</div>
