@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Anna Kovacs",
+    "subject": "Mathematics",
+    "homework": [],
+    "days": ["Monday", "Wednesday"]
+  },
+  {
+    "id": 2,
+    "name": "Peter Szabo",
+    "subject": "History",
+    "homework": [],
+    "days": ["Tuesday"]
+  },
+  {
+    "id": 3,
+    "name": "Julia Nagy",
+    "subject": "Hungarian Literature",
+    "homework": [],
+    "days": ["Wednesday", "Friday"]
+  },
+  {
+    "id": 4,
+    "name": "Gergely Toth",
+    "subject": "Physics",
+    "homework": [],
+    "days": ["Thursday"]
+  },
+  {
+    "id": 5,
+    "name": "Emese Farkas",
+    "subject": "Chemistry",
+    "homework": [],
+    "days": ["Friday"]
+  },
+  {
+    "id": 6,
+    "name": "Balazs Varga",
+    "subject": "Computer Science",
+    "homework": [],
+    "days": ["Monday", "Thursday"]
+  }
+]

@@ -1,0 +1,8 @@
+<div class="teacher-card">
+  <img [src]="" alt="" />
+
+  @for (teachers of teachers; track teachers) {
+  <img [src]="imagePath" alt="" />
+  <h3>{{ teachers.name }}</h3>
+  }
+</div>
